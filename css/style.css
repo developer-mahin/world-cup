@@ -361,6 +361,10 @@ hr {
 }
 
 @media(max-width:360px){
+    main {
+        margin: 0px 4%;
+    }
+    
     .banner-wrapper {
         padding: 20px;
         flex-direction: column;
