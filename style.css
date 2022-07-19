@@ -1,0 +1,29 @@
+/*--------------------
+    Google Font
+---------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Roboto:wght@400;500;700;900&display=swap');
+/*--------------------
+    Common CSS
+----------------------*/
+*{
+    margin: 0;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto', sans-serif;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container{
+    width: 1320px;
+}
