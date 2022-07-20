@@ -386,7 +386,7 @@ hr {
     
 }
 
-@media(max-width:360px){
+@media(max-width:576px){
     main {
         margin: 0px 4%;
     }
