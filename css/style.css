@@ -57,7 +57,7 @@ Tablet View more button
     banner CSS Start
 ----------------------*/
 section.banner {
-    background: #161616;
+    background: linear-gradient(45deg, #020242, #8e031b);
     border-radius: 18px;
     margin-top: 30px;
 }
